@@ -53,4 +53,4 @@ This project demonstrates how to host a static HTML website using Amazon S3. The
 - HTML
 
 ## Author
-Cloud Computing Learner
+Muqaddus Khan
