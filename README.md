@@ -9,7 +9,7 @@ This project demonstrates how to host a static HTML website using Amazon S3. The
 ## AWS Services Used
 - Amazon S3
 - S3 Bucket Policy
-- Server-Side Encryption (SSE-C)
+- - Server-Side Encryption with Amazon S3 Managed Keys (SSE-S3)
 - Static Website Hosting
 
 ## Project Objectives
