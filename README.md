@@ -18,7 +18,7 @@ This project demonstrates how to host a static HTML website using Amazon S3. The
 - Understand bucket permissions and public access.
 - Configure static website hosting.
 - Test the website using the S3 website endpoint.
-- [AWS S3 Static Website] (aws.preview.png)
+- ![AWS S3 Static Website](aws.preview.png)
 
 
 ## Project Implementation
@@ -56,3 +56,6 @@ This project demonstrates how to host a static HTML website using Amazon S3. The
 
 ## Author
 Muqaddus Khan
+## Website Preview
+
+![AWS S3 Static Website](aws.preview.png)
